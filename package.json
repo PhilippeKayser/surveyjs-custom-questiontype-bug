@@ -1,0 +1,11 @@
+{
+  "name": "surveyjs-bug-report",
+  "version": "1.0.0",
+  "description": "Bug report for surveyJS regarding onValueChanging being fired after onValueChanged",
+  "main": "app.js",
+  "author": "Philippe Kayser",
+  "license": "MIT",
+  "dependencies": {
+    "survey-core": "^1.9.27"
+  }
+}
