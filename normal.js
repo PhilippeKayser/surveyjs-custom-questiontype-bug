@@ -1,7 +1,7 @@
 
 const Survey = require('survey-core');
 
-//Survey with one question of the derived type
+//Survey with one question of type text
 const s = {
   "title": "Demo Survey",
   "logoPosition": "right",
